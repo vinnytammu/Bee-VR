@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+//Authors: Sohyun An, Tammy Do, and Ben Henshaw 
 public enum GameState
 {
     GameStart, GamePlay, GameEnd
