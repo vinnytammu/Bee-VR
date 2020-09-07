@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Authors: Ben Henshaw and Tammy Do 
 public class rocketWing_Right : MonoBehaviour {
 
 
