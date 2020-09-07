@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+//Authors: Tammy Do and Ben Henshaw
 
 public class FlyingState : MonoBehaviour
 {
